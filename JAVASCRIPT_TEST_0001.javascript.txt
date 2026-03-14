@@ -1,4 +1,4 @@
-let n = 5;
+let n = 6;
 
 // Upper half (including middle line)
 for (let i = 1; i <= n; i++) {
